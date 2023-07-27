@@ -1,3 +1,5 @@
+\*\*Bundle 2 Execercise 1
+
 ```
 walte@Walter MINGW64 ~
 $ source .bash_profile
@@ -59,7 +61,7 @@ walte@Walter MINGW64 /d/Final-Git-Practice (ft/bundle-2)
 $
 ```
 
-
+\*\*Bundle 2 exercises 2
 
 ```
 
@@ -231,7 +233,8 @@ $
 
 ```
 
-**Cherry Pick
+\*\* Bundle 3 Exercise 1
+\*\*Cherry Pick
 
 ```
 
@@ -382,8 +385,7 @@ $
 
 ```
 
-
-** FAQ page
+\*\* FAQ page
 
 ```
 
